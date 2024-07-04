@@ -35,6 +35,7 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 9. Document Your Setup:
     Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process. 
+    https://drive.google.com/drive/folders/1AQlQhn6nsRJwWnQ3YxK9p9Cp-fFENWrq
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
